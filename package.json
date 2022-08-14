@@ -21,13 +21,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Josefina1808/backEnd.git"
+    "url": "git+https://github.com/PaulagR87/Log-in-por-formulario.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Josefina1808/backEnd/issues"
+    "url": "https://github.com/PaulagR87/Log-in-por-formulario/issues"
   },
-  "homepage": "https://github.com/Josefina1808/backEnd#readme",
+  "homepage": "https://github.com/PaulagR87/Log-in-por-formulario.git",
   "description": "Desafio 10 - LOG-IN POR FORMULARIO"
 }
